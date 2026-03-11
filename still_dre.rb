@@ -5,13 +5,13 @@ use_bpm 93
 
 =begin
 #fade out
+sample dre, amp: 1
+sleep 1
 sample dre, amp: 0.5
 sleep 1
 sample dre, amp: 0.25
 sleep 1
 sample dre, amp: 0.125
-sleep 1
-sample dre, amp: 0.0625
 sleep 1
 =end
 
